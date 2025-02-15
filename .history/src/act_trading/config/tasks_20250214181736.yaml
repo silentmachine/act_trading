@@ -1,0 +1,8 @@
+trading_performance_task:
+  description: >
+    Analyze the trading data from Robinhood to identify the best performing trades.
+    Consider factors such as profit margins, trade volume, and market conditions.
+  expected_output: >
+    A summary report highlighting the top 5 trades with the highest performance metrics.
+    Include details such as trade date, asset, profit, and any relevant market insights.
+  agent: trading_analyst
