@@ -1,1 +1,1 @@
-print("hello coderabbit")
+print_error("hello coderabbit")
